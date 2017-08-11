@@ -1,0 +1,7 @@
+katie,carter,1033 Valley street,omaha,ne,68124,4153888541
+james,smith,133 main street,omaha,ne,68424,4023987537
+anne,storm,413 borel ave,san mateo,ca,94402,6503478717
+jenny,sands,103 montgomery street,lincoln,ne,68124,4144855541
+maryanne,stuart,10773 Valley street,omaha,ne,68124,4133833541
+betsy,johnson,877 market ave,san francisco,ca,94402,8988888888
+Jennifer,Stuart,382 Souix Falls,Dakota Valley,SD,88999,7877777777
